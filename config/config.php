@@ -1,0 +1,1 @@
+<?php return array('database_host' => 'localhost', 'database_name' => 'dbasename',    'database_user' => 'dbuser', 'database_password' => 'pass');
